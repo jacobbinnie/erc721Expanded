@@ -1,0 +1,11 @@
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@4.4.2
+compiler:
+  solc:
+    remappings:
+      - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.4.2'
+dotenv: .env
+network:
+  default: development
+  development:
+    account: 0x7393D85fCa98Ce1BaD5Df18351a1302448F2cD45
