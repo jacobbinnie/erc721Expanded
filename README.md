@@ -1,4 +1,4 @@
-<h1>Classic ERC721 + More</h1>
+<h1>Classic ERC721 Expanded</h1>
 
 <h3>This ERC721 contract limits a user to minting 5 NFTs per transaction, checks for available funds & caps the total supply at 8888 tokens. An easily expandable contract for anyone looking to build an NFT collection.</h3>
 
